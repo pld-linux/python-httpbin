@@ -8,7 +8,7 @@ Summary:	HTTP Request and Response Service
 Summary(pl.UTF-8):	Usługa żądań i odpowiedzi HTTP
 Name:		python-httpbin
 Version:	0.5.0
-Release:	1
+Release:	2
 License:	ISC
 Group:		Libraries/Python
 #Source0Download: https://pypi.python.org/simple/httpbin
